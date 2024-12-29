@@ -1,0 +1,63 @@
+[{
+     "avatar": "https://yeyuwenxi.xyz/images.github.io/wangye.jpg",
+     "name": "本站主站点",
+     "introduction": "github版本",
+     "url": "http://yeyuwenxi.xyz/",
+     "title": "前去学习"
+ },
+ {
+    "avatar": "https://yeyuwenxi.xyz/images.github.io/wangye.jpg",
+    "name": "本站备用站点",
+    "introduction": "gitee版本（存在bug）",
+    "url": "http://yeyuwenxi.gitee.io/",
+    "title": "前去学习"
+},
+{
+    "avatar": "https://yeyuwenxi.xyz/images.github.io/wangye.jpg",
+    "name": "本站备用站点",
+    "introduction": "vercel版本",
+    "url": "http://blog.yeyuwenxi.xyz/",
+    "title": "前去学习"
+},
+{
+    "avatar": "https://www.aigisss.com/blog/images/profile/avatar.jpg",
+    "name": "爱即是诗",
+    "introduction": "一个关于GIS的博客",
+    "url": "https://www.aigisss.com/",
+    "title": "前去学习"
+},
+{
+    "avatar": "https://cdn.jsdelivr.net/gh/cayzlh/psychic-potato@master/image/IMG_4207.JPG",
+    "name": "cayzlh",
+    "introduction": "CODE IS POETRY",
+    "url": "https://www.cayzlh.com",
+    "title": "前去学习"
+},
+{
+    "avatar": " https://tvax4.sinaimg.cn/large/006djwNZgy1gpi5ffzh1fj30pl0pldm9.jpg",
+    "name": "橘子味雪糕",
+    "introduction": "竟然选择了远方，便只顾风雨兼程",
+    "url": "https://liuxianl.com",
+    "title": "前去学习"
+},
+{
+    "avatar": " https://cdn.jsdelivr.net/gh/Goopher97/tuchuang@master/img/18DAD281896408F73F4EF594111BECA2.jpg",
+    "name": "GOOPHER's Blog ",
+    "introduction": " 记录折腾的生活。",
+    "url": " https://goopher.tk",
+    "title": "前去学习"
+},
+{
+    "avatar": " https://www.moeor.com/avatar.webp",
+    "name": "梦繁星 ",
+    "introduction": "不过是大梦一场空！",
+    "url": " https://www.moeor.com/",
+    "title": "前去学习"
+},
+{
+    "avatar": " http://marisa-kirisame.gitee.io/phw/Avatar.jpg",
+    "name": "雾雨霜星 ",
+    "introduction": "雾间觉雨，霜空望星",
+    "url": " http://www.shuangxing.top",
+    "title": "前去学习"
+}]
